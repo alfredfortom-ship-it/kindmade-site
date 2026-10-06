@@ -48,7 +48,8 @@ address{font-style:normal;color:var(--muted);margin-top:20px}
 .phone:nth-child(2){transform:translateY(-24px)}
 .app-icon{width:56px;height:56px;border-radius:14px;display:block;margin-bottom:14px;box-shadow:0 4px 12px rgba(43,38,34,.12)}
 .shots{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;margin-top:12px}
-.shots figure{margin:0;text-align:center}
+.shots figure{margin:0;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:flex-end}
 .shots img{width:100%;max-width:240px;height:auto;border-radius:22px;border:5px solid #2b2622;box-shadow:0 12px 28px rgba(43,38,34,.14)}
-.shots img.mascot{border:0;box-shadow:none;border-radius:0;max-width:200px;margin-top:40px}
+.shots img.mascot{border:0;box-shadow:none;border-radius:0;max-width:200px;margin:auto 0}
 .shots figcaption{color:var(--muted);font-size:.92rem;margin-top:12px}
+.showcase{padding-bottom:64px}
