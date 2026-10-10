@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://kindmade.co/</loc></url>
+  <url><loc>https://kindmade.co/about.html</loc></url>
+  <url><loc>https://kindmade.co/support.html</loc></url>
   <url><loc>https://kindmade.co/privacy.html</loc></url>
   <url><loc>https://kindmade.co/terms.html</loc></url>
 </urlset>

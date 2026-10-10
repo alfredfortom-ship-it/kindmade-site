@@ -53,3 +53,5 @@ address{font-style:normal;color:var(--muted);margin-top:20px}
 .shots img.mascot{border:0;box-shadow:none;border-radius:0;max-width:200px;margin:auto 0}
 .shots figcaption{color:var(--muted);font-size:.92rem;margin-top:12px}
 .showcase{padding-bottom:64px}
+
+.facts{border-collapse:collapse;margin:8px 0 0;width:100%;max-width:640px}.facts td{padding:9px 14px 9px 0;border-bottom:1px solid var(--line);vertical-align:top}.facts td:first-child{color:var(--muted);width:40%}
